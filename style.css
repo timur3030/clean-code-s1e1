@@ -10,10 +10,10 @@
   display: block;
   text-align: right;
 }
-.header-img {
+.header__img {
   width: 100%;
 }
-.more-inf {
+.header__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -32,7 +32,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.add-task__wrapper {
   display: flex;
 }
 ul {
@@ -86,7 +86,7 @@ input,
 }
 
 /* New Task */
-.for-new-task {
+.main__title {
   display: block;
   margin: 0 0 20px;
 }
